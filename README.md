@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá
 
-<!--
-**kaikyxsecur1ty/kaikyxsecur1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este perfil é Oficial para salvar anotações de estudos focados em **Certificações** em **Cibersegurança**
 
-Here are some ideas to get you started:
+Estou focado em estudar para me tornar um **Penetration Tester** e participar ativamente de projetos **Red Team**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Certificações Metas para 2026
+- CompTIA Security +
+- DCPT - Desec Security
+- eJPT - INE Security
+- eWPT - INE Security
+- eWPTX - INE Security
