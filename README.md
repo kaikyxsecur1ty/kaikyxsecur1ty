@@ -6,8 +6,8 @@ Estou focado em estudar para me tornar um **Penetration Tester** e participar at
 
 
 ## Certificações Metas para 2026
-- CompTIA Security +
-- DCPT - Desec Security
+- CompTIA Security +  == Em andamento
+- DCPT - Desec Security  == Em andamento
 - eJPT - INE Security
 - eWPT - INE Security
 - eWPTX - INE Security
